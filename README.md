@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0287-find-the-duplicate-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
