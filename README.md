@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0287-find-the-duplicate-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
