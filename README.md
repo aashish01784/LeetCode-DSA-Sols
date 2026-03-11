@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0287-find-the-duplicate-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
