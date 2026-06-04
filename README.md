@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,4 +101,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/aashish01784/LeetCode-DSA-Sols/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
